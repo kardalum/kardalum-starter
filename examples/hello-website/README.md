@@ -83,4 +83,4 @@ keep doing that in your own markup.
 The API key is a secret for *your* instance. Fetching on the server keeps
 it out of the browser.
 
-The full headless API reference is at <https://docs.kardalum.com>.
+The full headless API reference is at <https://dev.kardalum.com/docs/>.

@@ -18,7 +18,7 @@ Then `cd my-site`, `npm run dev`, and open http://localhost:3000/kardalum
 to finish setup in your browser (the database choice included). Your
 project is plain files you own.
 
-The full guide is at <https://docs.kardalum.com>.
+The full guide is at <https://dev.kardalum.com/docs/>.
 
 ## Try the API
 
@@ -27,11 +27,11 @@ Its API key is public on purpose (it can only read, and it is
 rate-limited), so this works as it stands:
 
 ```sh
-curl -s -H "Authorization: Bearer vk_341277423b47f9aee49afa83e69cec0d7b14bda519c634be36929d558e05a1ef" "https://demo.kardalum.com/api/v1/content?limit=5"
+curl -s -H "Authorization: Bearer vk_0d792e4463957c5634ea5f5a74cf44e7f94504e92dd43a0a80bc07fa34b44c1d" "https://demo.kardalum.com/api/v1/content?limit=5"
 ```
 
 The reference for every route is at
-<https://docs.kardalum.com/v1/reference/headless-api/>.
+<https://dev.kardalum.com/docs/v1/reference/headless-api/>.
 
 ## Run the example site
 
@@ -51,8 +51,8 @@ Its README also walks through creating a document type and publishing a
 
 ## Links
 
-- **Docs**: <https://docs.kardalum.com>
-- **Marketplace**: <https://marketplace.kardalum.com>
+- **Docs**: <https://dev.kardalum.com/docs/>
+- **Marketplace**: <https://dev.kardalum.com>
 - **Plugin developers**: [kardalum-devkit](https://github.com/kardalum/kardalum-devkit)
 
 ## Community
